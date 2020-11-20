@@ -31,5 +31,27 @@
 }
 .substraction-button {
     cursor: pointer;
-    color: green;
+    color: blue;
+}
+
+.multiplication-button {
+    cursor: pointer;
+    color: blue;
+}
+.division-button {
+    cursor: pointer;
+    color: blue;
+}
+.sqr-button {
+    cursor: pointer;
+    color: blue;
+}
+.sqrt-button {
+    cursor: pointer;
+    color: blue;
+}
+
+.exp-button {
+    cursor: pointer;
+    color: blue;
 }
